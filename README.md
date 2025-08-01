@@ -13,4 +13,4 @@
 
 另外还增加了数据管理选项，可以“打开数据目录”、"重置应用数据"和获取"应用信息"功能，尤其方便开发者调试。
 
-下载链接：https://github.com/shibiao/Trust_Mac_App/blob/main/TrustMacApp.zip
+下载链接：[TrustMacApp.zip](https://github.com/shibiao/Trust_Mac_App/releases/download/v2.0/TrustMacApp.zip)
